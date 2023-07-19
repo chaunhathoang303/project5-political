@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Political Preparedness</string>
-
-    <!-- TODO: Add necessary string values -->
-
+    <string name="image_launch_description">Image Background Launch</string>
+    <string name="upcoming_button">UPCOMING ELECTIONS</string>
+    <string name="find_button">FIND MY REPRESENTATIVES</string>
+    <string name="upcoming_title">Upcoming Elections</string>
+    <string name="saved_election">Saved Elections</string>
+    <string name="election_info">Election Information</string>
+    <string name="voting_location">Voting Locations</string>
+    <string name="ballot_info">Ballot Information</string>
+    <string name="correspondence_address">Correspondence Address</string>
+    <string name="save_button">Save Button</string>
+    <string name="representative_search">Representative Search</string>
+    <string name="line1_hint">Address Line 1</string>
+    <string name="line2_hint">Address Line 2</string>
+    <string name="city_hint">City</string>
+    <string name="zip">Zip</string>
+    <string name="location_button">USE MY LOCATION</string>
+    <string name="my_representative">My Representatives</string>
+    <string name="icwww_link">ICWWW LINK</string>
+    <string name="facebook_link">FACEBOOK LINK</string>
+    <string name="twitter_link">TWITTER LINK</string>
 </resources>
